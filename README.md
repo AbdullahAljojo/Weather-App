@@ -1,5 +1,1 @@
-# weather_app_task
-
-An app for weather forecasts for Dubai city for 5 days!.
-
-
+Utilizing Cubit state management, our Flutter weather app for Dubai provides a seamless user experience. With Cubit, we efficiently manage state changes, ensuring smooth operation and real-time updates. Experience the power of Cubit in action as we deliver accurate weather forecasts for the next five days, tailored to PioneerNetwork's task requirements.
